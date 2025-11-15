@@ -14,6 +14,15 @@ This repository contains a Python implementation of a Quantum Generative Adversa
 **"Option Pricing using Quantum Computers" (arXiv:1905.02666)**
 *Somaya Abuhmed, Donatello Conte, Roman Gantner, Christa Zoufal, Juerg Woehr, and Stefan Woerner*
 
+## Paper Context 
+
+<table>
+  <tr>
+    <td><img src="page-2.png" alt="Page 2 – Review of option types, Monte Carlo workflow, and high-level quantum methodology"></td>
+    <td><img src="page-4.png" alt="Page 4 – Black–Scholes log-normal model assumptions and qGAN distribution loading discussion"></td>
+  </tr>
+</table>
+
 ## Code Description: `main.py`
 
 This Python script (`main.py`) demonstrates the concept of using a hybrid Quantum-Classical Generative Adversarial Network (QGAN) to learn the risk-neutral probability distribution of an underlying asset's price and subsequently use this distribution to price European call options.
@@ -97,8 +106,6 @@ Quantum Machine Learning (QML) is a burgeoning field that explores how quantum c
 This code serves as a starting point for understanding and exploring the exciting intersection of quantum computing and machine learning in the context of financial applications. As quantum computing technology progresses, QML is expected to play an increasingly important role in various domains, potentially transforming how we approach complex computational problems.
 
 Note : you will need linux to run this since it uses the gpu and to qiskit-aer-gpu is not available on windows.
-
-
 
 
 
