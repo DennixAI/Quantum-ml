@@ -1,5 +1,12 @@
 # QUANTUM-ML
 An implemenation of "Option Pricing Using Quantum Computers"
+
+**Sources:**
+
+[Option Pricing Using Quantum Computers](https://arxiv.org/pdf/1905.02666)
+
+[Quantum GANs](https://arxiv.org/pdf/1804.08641)
+
 # Quantum Generative Adversarial Network (QGAN) for Option Pricing
 
 This repository contains a Python implementation of a Quantum Generative Adversarial Network (QGAN) designed for pricing European call options. The code is based on the principles discussed in the research paper:
@@ -91,11 +98,7 @@ This code serves as a starting point for understanding and exploring the excitin
 
 Note : you will need linux to run this since it uses the gpu and to qiskit-aer-gpu is not available on windows.
 
-**Sources:**
 
-[Option Pricing Using Quantum Computers](https://arxiv.org/pdf/1905.02666)
-
-[Quantum GANs](https://arxiv.org/pdf/1804.08641)
 
 
 
