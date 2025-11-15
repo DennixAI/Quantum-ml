@@ -14,7 +14,7 @@ This repository contains a Python implementation of a Quantum Generative Adversa
 **"Option Pricing using Quantum Computers" (arXiv:1905.02666)**
 *Somaya Abuhmed, Donatello Conte, Roman Gantner, Christa Zoufal, Juerg Woehr, and Stefan Woerner*
 
-## Paper Context 
+## Core concepts in the paper
 
 <table>
   <tr>
